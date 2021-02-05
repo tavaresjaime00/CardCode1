@@ -14,6 +14,15 @@ public class CardTrick {
        card1.setSuit("Clubs");
        System.out.println("Card1 Suit: " + card1.getSuit());
        System.out.println("Card1 Value: " + card1.getValue());
+       
+       // Create one more card object, commit and then push to github
+       Card card2 = new Card();
+       card2.setValue(9);
+       card2.setSuit("Hearts");
+       // output
+       System.out.println("Card2 Suit: " + card2.getSuit());
+       System.out.println("Card2 Value: " + card2.getValue());
+       
     }
     
 }
