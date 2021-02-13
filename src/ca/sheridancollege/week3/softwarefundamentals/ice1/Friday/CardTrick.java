@@ -3,7 +3,7 @@ package ca.sheridancollege.week3.softwarefundamentals.ice1.Friday;
 
 /**
  *
- * @author Jaime Tavares
+ * @author Jaime Tavares, 991512643
  */
 public class CardTrick {
     public static void main(String[] args)
